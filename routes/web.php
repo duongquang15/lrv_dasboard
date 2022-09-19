@@ -1,5 +1,5 @@
 <?php
-
+// use Route;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PhotosController;
 use App\Http\Controllers\Auth\LoginController;
